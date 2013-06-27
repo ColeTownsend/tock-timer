@@ -1,14 +1,14 @@
-.center, .wrap, #content {
+.center, .wrap {
     margin: 0 auto 0 25px; 
     overflow: hidden;   
 }
-    .wrap, #content {
+    .wrap {
         position: relative;
         left: 20px;
         
         width: 1000px;
     }
-    .wrap.spaced, #content {
+    .wrap.spaced {
         min-height: 248px;
         padding: 80px 0 60px;
     }
