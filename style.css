@@ -213,6 +213,14 @@ a.button:active {
 	border: 1px solid #BD534B;
 }
 
+a.button:hover {
+	background-image: -o-linear-gradient(-90deg, #DB5E55 0%, #CB4E45 100%);
+	background-image: -moz-linear-gradient(-90deg, #DB5E55 0%, #CB4E45 100%);
+	background-image: -webkit-linear-gradient(-90deg, #DB5E55 0%, #CB4E45 100%);
+	background-image: -ms-linear-gradient(-90deg, #DB5E55 0%, #CB4E45 100%);
+	background-image: linear-gradient(-180deg, #DB5E55 0%, #CB4E45 100%);
+}
+
 .leftie .appstore {
 	margin-top: 25px;
 	font-size: 12px;
