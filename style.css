@@ -344,3 +344,7 @@ p.right a {
 p.right a:hover {
 	opacity: 1;
 }
+
+.dev-link {
+	padding-left: 20px;
+}
