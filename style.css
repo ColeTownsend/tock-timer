@@ -334,6 +334,12 @@ p.title {
 
 p.info {
 	opacity: 0.8;
+	color: #5d6778;
+	line-height: 21px;
+	width: 90%;
+	display: block;
+	margin: 0 auto;
+	font-size: 14px;
 }
 
 
