@@ -360,6 +360,7 @@ p.right {
 
 p.right a {
 	opacity: 0.75;
+	font-weight: bold;
 	-o-transition     :opacity .2s ease-out, background 0.5s ease-in;
 	-ms-transition    :opacity .2s ease-out, background 0.5s ease-in;
 	-moz-transition   :opacity .2s ease-out, background 0.5s ease-in;
